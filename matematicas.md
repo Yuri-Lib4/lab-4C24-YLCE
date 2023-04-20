@@ -1,2 +1,2 @@
 
-la, este es ujn fichero de prueba
+ este es un fichero de prueba
